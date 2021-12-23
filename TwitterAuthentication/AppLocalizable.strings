@@ -1,0 +1,10 @@
+/* 
+  AppLocalizable.strings
+  TwitterAuthentication
+
+  Created by Chirag Vekariya on 21/12/21.
+  
+*/
+"error"                             = "Error";
+"dismissAlert"                      = "Dismiss";
+"userName"                          = "Your User Name is %@";
